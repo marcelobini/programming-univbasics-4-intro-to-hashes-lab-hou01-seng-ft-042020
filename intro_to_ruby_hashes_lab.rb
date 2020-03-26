@@ -35,5 +35,6 @@ def update_counting_hash(hash, key)
   update_counting_hash = {:apples => 3}
   update_counting_hash[:apples] = 4
   update_counting_hash[:oranges] = 1
+  update_counting_hash["top hat"] += 1
 
 end
