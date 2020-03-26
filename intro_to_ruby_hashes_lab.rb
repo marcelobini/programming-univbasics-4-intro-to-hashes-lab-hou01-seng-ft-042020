@@ -22,7 +22,7 @@ def my_hash_creator(key, value)
   # return a hash that includes the key and value parameters passed into this method
   key = "Marcelo"
   value = 1
-  my_hash_creator {:key => value}
+  my_hash_creator {:Marcelo => 1}
 end
 
 def read_from_hash(hash, key)
