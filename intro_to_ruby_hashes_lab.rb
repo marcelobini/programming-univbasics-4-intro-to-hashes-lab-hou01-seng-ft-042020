@@ -5,7 +5,7 @@ end
 
 def my_hash
   # return a valid hash with any key/value pair of your choice
-  my_hash = {:name => marcelo, :age => 31}
+  my_hash = {:age => 31}
 end
 
 def pioneer
